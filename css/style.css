@@ -1,29 +1,30 @@
 body {
-    background-color: #f5f5dd;
+    background-color: black;
 }
-
-.square1, .square2, .square3, .square4 {
-
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom:10px;
-    width: 150px;
-    height: 150px;
-
+h1 {
+    color: red;
 }
-
-.square1 {
-    background-color: rgba(0,0,0,100);
+h2 {
+    color: rosybrown;
 }
-
-.square2 {
-    background-color: rgba(0,0,0,0.75);
+.p1 {
+    color: royalblue;
 }
-
-.square3 {
-    background-color: rgba(0,0,0,0.50);
+.p2 {
+    color: salmon;
 }
-
-.square4 {
-    background-color: rgba(0,0,0,0.25);
+.li1 {
+    color: seagreen;
+}
+.li2 {
+    color: silver;
+}
+.li3 {
+    color: springgreen;
+}
+.li4 {
+    color: tomato;
+}
+.li5 {
+    color: violet;
 }
