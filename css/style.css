@@ -8,7 +8,7 @@ body {
     height: 100px;
 }
 
-.first, .third, .fifth{
+.bg-color {
     background-color: blue;
 }
 
