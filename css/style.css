@@ -1,18 +1,10 @@
-body {
-    background-color: grey;
-
+h1 {
+    color: blue;
+    text-align: center
 }
-
-/* Selektor Znacznika */
-h2 {
-    color:white;
-    font-size: 2,3em;
-    margin: 18px;
+p { 
+    text-align: center
 }
-
-.square1, .square2, .square3, .square4  {
-    background-color: orange;
-    margin: 24px;
-    width: 200px;
-    height: 200px;
+.style {
+    color: red;
 }
