@@ -1,21 +1,10 @@
-body {
-    background-color: white;
+div>h3{
+    color: red;
+}
+.p1 {
+    color: royalblue;
 }
 
-.first, .second, .third, .fourth, .fifth, .sixth, .seventh, .eighth, .ninth, .tenth{
-    background-color: red;
-    width: 100px;
-    height: 100px;
+.p2 {
+    color: seagreen;
 }
-
-.bg-color {
-    background-color: blue;
-}
-
-div.first {
-    opacity: 0.5;
-}
-
-div.second {
-    opacity: 0.7
-  }
